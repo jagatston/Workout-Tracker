@@ -37,7 +37,6 @@ router.get("/api/workouts/range", (req, res) => {
 });
 
 router.delete("/api/workouts", (req, res) => {
-  // I sawthe demand in the homework to add a delete route but i couldn't find this functoinality in the frontend
 });
 
 module.exports = router;
